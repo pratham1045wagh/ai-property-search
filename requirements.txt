@@ -1,0 +1,6 @@
+# requirements.txt
+streamlit==1.36.0
+pandas==2.2.2
+google-genai
+numpy==1.26.4
+python-dotenv==1.0.1
