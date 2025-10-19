@@ -16,6 +16,8 @@ The chatbot provides a summary of the filtered results, making property hunting 
 
 4.Interactive UI: Built with Streamlit for a clean, user-friendly, web-based chat interface.
 
+<img width="880" height="445" alt="image" src="https://github.com/user-attachments/assets/531848e1-78a3-420c-add6-97d1683fda56" />
+
 
 💻 How to Use
 
